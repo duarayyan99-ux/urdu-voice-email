@@ -12,7 +12,7 @@ st.write(
 )
 
 # Credentials Setup
-API_KEY = "AQ.Ab8RN6JuTyte20IgTBs9NUJ8fQSylP8OABZF276FGRSd8bVjW"
+API_KEY = "AQ.Ab8RN6JuTyte20IgTBs9NUJ8fQSylP8OABZF276FGRSd8bVjWA"
 SENDER_EMAIL = "duarayyan99@gmail.com"
 SENDER_PASSWORD = "dua2222@"
 
