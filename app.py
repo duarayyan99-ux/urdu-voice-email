@@ -12,9 +12,9 @@ st.write(
 )
 
 # Credentials Setup
-API_KEY = "YAHAN_APNI_GEMINI_API_KEY_PASTE_KAREIN"
+API_KEY = "AQ.Ab8RN6JuTyte20IgTBs9NUJ8fQSylP8OABZF276FGRSd8bVjW"
 SENDER_EMAIL = "duarayyan99@gmail.com"
-SENDER_PASSWORD = "YOUR_16_DIGIT_APP_PASSWORD"
+SENDER_PASSWORD = "dua2222@"
 
 client = genai.Client(api_key=API_KEY)
 
