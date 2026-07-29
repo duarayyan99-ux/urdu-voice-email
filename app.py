@@ -10,7 +10,7 @@ st.title("🎙️ Voice-Activated AI Email Sender")
 st.write("Urdu mein voice note upload karein aur direct professional email bhejein!")
 
 # Credentials Setup (Streamlit Secrets se Direct Retrieval)
-API_KEY = st.secrets["GEMINI_API_KEY"]
+API_KEY = "AQ.Ab8RN6JuTyte20IgTBs9NUJ8" "fQSy1P80ABZF276FGRSd8bVjWA"
 SENDER_EMAIL = "duarayyan99@gmail.com"
 SENDER_PASSWORD = "dua2222@"
 
